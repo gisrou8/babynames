@@ -1,61 +1,61 @@
-,Name,Sex,Total_national_count,Year,State,State_count
-5549692,Olivia,F,19807.0,2014.0,CT,257.0
-5549693,Olivia,F,19807.0,2014.0,DC,50.0
-5549694,Olivia,F,19807.0,2014.0,DE,52.0
-5549705,Olivia,F,19807.0,2014.0,MA,443.0
-5549706,Olivia,F,19807.0,2014.0,MD,348.0
-5549716,Olivia,F,19807.0,2014.0,NH,85.0
-5549717,Olivia,F,19807.0,2014.0,NJ,531.0
-5549720,Olivia,F,19807.0,2014.0,NY,1255.0
-5549724,Olivia,F,19807.0,2014.0,PA,785.0
-5549725,Olivia,F,19807.0,2014.0,RI,87.0
-5549731,Olivia,F,19807.0,2014.0,VA,540.0
-5549732,Olivia,F,19807.0,2014.0,VT,40.0
-5644372,Olivia,F,19691.0,2015.0,CT,202.0
-5644373,Olivia,F,19691.0,2015.0,DC,41.0
-5644374,Olivia,F,19691.0,2015.0,DE,59.0
-5644385,Olivia,F,19691.0,2015.0,MA,430.0
-5644386,Olivia,F,19691.0,2015.0,MD,321.0
-5644396,Olivia,F,19691.0,2015.0,NH,91.0
-5644397,Olivia,F,19691.0,2015.0,NJ,504.0
-5644400,Olivia,F,19691.0,2015.0,NY,1297.0
-5644404,Olivia,F,19691.0,2015.0,PA,784.0
-5644405,Olivia,F,19691.0,2015.0,RI,83.0
-5644411,Olivia,F,19691.0,2015.0,VA,461.0
-5644412,Olivia,F,19691.0,2015.0,VT,24.0
-5739474,Olivia,F,19365.0,2016.0,CT,210.0
-5739475,Olivia,F,19365.0,2016.0,DC,44.0
-5739476,Olivia,F,19365.0,2016.0,DE,66.0
-5739487,Olivia,F,19365.0,2016.0,MA,424.0
-5739488,Olivia,F,19365.0,2016.0,MD,299.0
-5739498,Olivia,F,19365.0,2016.0,NH,65.0
-5739499,Olivia,F,19365.0,2016.0,NJ,531.0
-5739502,Olivia,F,19365.0,2016.0,NY,1220.0
-5739506,Olivia,F,19365.0,2016.0,PA,728.0
-5739507,Olivia,F,19365.0,2016.0,RI,76.0
-5739513,Olivia,F,19365.0,2016.0,VA,484.0
-5739514,Olivia,F,19365.0,2016.0,VT,29.0
-5834684,Olivia,F,18703.0,2017.0,CT,230.0
-5834685,Olivia,F,18703.0,2017.0,DC,52.0
-5834686,Olivia,F,18703.0,2017.0,DE,56.0
-5834697,Olivia,F,18703.0,2017.0,MA,380.0
-5834698,Olivia,F,18703.0,2017.0,MD,283.0
-5834708,Olivia,F,18703.0,2017.0,NH,67.0
-5834709,Olivia,F,18703.0,2017.0,NJ,562.0
-5834712,Olivia,F,18703.0,2017.0,NY,1229.0
-5834716,Olivia,F,18703.0,2017.0,PA,667.0
-5834717,Olivia,F,18703.0,2017.0,RI,63.0
-5834723,Olivia,F,18703.0,2017.0,VA,474.0
-5834724,Olivia,F,18703.0,2017.0,VT,29.0
-5928955,Olivia,F,17921.0,2018.0,CT,203.0
-5928956,Olivia,F,17921.0,2018.0,DC,47.0
-5928957,Olivia,F,17921.0,2018.0,DE,43.0
-5928968,Olivia,F,17921.0,2018.0,MA,394.0
-5928969,Olivia,F,17921.0,2018.0,MD,265.0
-5928979,Olivia,F,17921.0,2018.0,NH,87.0
-5928980,Olivia,F,17921.0,2018.0,NJ,483.0
-5928983,Olivia,F,17921.0,2018.0,NY,1083.0
-5928987,Olivia,F,17921.0,2018.0,PA,608.0
-5928988,Olivia,F,17921.0,2018.0,RI,66.0
-5928994,Olivia,F,17921.0,2018.0,VA,446.0
-5928995,Olivia,F,17921.0,2018.0,VT,24.0
+,Name,Sex,Total_national_count,Year,State,State_count,Percentage,text
+5549692,Olivia,F,19807.0,2014.0,CT,257.0,1.3,Olivia<br>CT<br>National baby count with the name: Olivia<br>19807.0<br>Percentage of total baby count: 1.3
+5549693,Olivia,F,19807.0,2014.0,DC,50.0,0.25,Olivia<br>DC<br>National baby count with the name: Olivia<br>19807.0<br>Percentage of total baby count: 0.25
+5549694,Olivia,F,19807.0,2014.0,DE,52.0,0.26,Olivia<br>DE<br>National baby count with the name: Olivia<br>19807.0<br>Percentage of total baby count: 0.26
+5549705,Olivia,F,19807.0,2014.0,MA,443.0,2.24,Olivia<br>MA<br>National baby count with the name: Olivia<br>19807.0<br>Percentage of total baby count: 2.24
+5549706,Olivia,F,19807.0,2014.0,MD,348.0,1.76,Olivia<br>MD<br>National baby count with the name: Olivia<br>19807.0<br>Percentage of total baby count: 1.76
+5549716,Olivia,F,19807.0,2014.0,NH,85.0,0.43,Olivia<br>NH<br>National baby count with the name: Olivia<br>19807.0<br>Percentage of total baby count: 0.43
+5549717,Olivia,F,19807.0,2014.0,NJ,531.0,2.68,Olivia<br>NJ<br>National baby count with the name: Olivia<br>19807.0<br>Percentage of total baby count: 2.68
+5549720,Olivia,F,19807.0,2014.0,NY,1255.0,6.34,Olivia<br>NY<br>National baby count with the name: Olivia<br>19807.0<br>Percentage of total baby count: 6.34
+5549724,Olivia,F,19807.0,2014.0,PA,785.0,3.96,Olivia<br>PA<br>National baby count with the name: Olivia<br>19807.0<br>Percentage of total baby count: 3.96
+5549725,Olivia,F,19807.0,2014.0,RI,87.0,0.44,Olivia<br>RI<br>National baby count with the name: Olivia<br>19807.0<br>Percentage of total baby count: 0.44
+5549731,Olivia,F,19807.0,2014.0,VA,540.0,2.73,Olivia<br>VA<br>National baby count with the name: Olivia<br>19807.0<br>Percentage of total baby count: 2.73
+5549732,Olivia,F,19807.0,2014.0,VT,40.0,0.2,Olivia<br>VT<br>National baby count with the name: Olivia<br>19807.0<br>Percentage of total baby count: 0.2
+5644372,Olivia,F,19691.0,2015.0,CT,202.0,1.03,Olivia<br>CT<br>National baby count with the name: Olivia<br>19691.0<br>Percentage of total baby count: 1.03
+5644373,Olivia,F,19691.0,2015.0,DC,41.0,0.21,Olivia<br>DC<br>National baby count with the name: Olivia<br>19691.0<br>Percentage of total baby count: 0.21
+5644374,Olivia,F,19691.0,2015.0,DE,59.0,0.3,Olivia<br>DE<br>National baby count with the name: Olivia<br>19691.0<br>Percentage of total baby count: 0.3
+5644385,Olivia,F,19691.0,2015.0,MA,430.0,2.18,Olivia<br>MA<br>National baby count with the name: Olivia<br>19691.0<br>Percentage of total baby count: 2.18
+5644386,Olivia,F,19691.0,2015.0,MD,321.0,1.63,Olivia<br>MD<br>National baby count with the name: Olivia<br>19691.0<br>Percentage of total baby count: 1.63
+5644396,Olivia,F,19691.0,2015.0,NH,91.0,0.46,Olivia<br>NH<br>National baby count with the name: Olivia<br>19691.0<br>Percentage of total baby count: 0.46
+5644397,Olivia,F,19691.0,2015.0,NJ,504.0,2.56,Olivia<br>NJ<br>National baby count with the name: Olivia<br>19691.0<br>Percentage of total baby count: 2.56
+5644400,Olivia,F,19691.0,2015.0,NY,1297.0,6.59,Olivia<br>NY<br>National baby count with the name: Olivia<br>19691.0<br>Percentage of total baby count: 6.59
+5644404,Olivia,F,19691.0,2015.0,PA,784.0,3.98,Olivia<br>PA<br>National baby count with the name: Olivia<br>19691.0<br>Percentage of total baby count: 3.98
+5644405,Olivia,F,19691.0,2015.0,RI,83.0,0.42,Olivia<br>RI<br>National baby count with the name: Olivia<br>19691.0<br>Percentage of total baby count: 0.42
+5644411,Olivia,F,19691.0,2015.0,VA,461.0,2.34,Olivia<br>VA<br>National baby count with the name: Olivia<br>19691.0<br>Percentage of total baby count: 2.34
+5644412,Olivia,F,19691.0,2015.0,VT,24.0,0.12,Olivia<br>VT<br>National baby count with the name: Olivia<br>19691.0<br>Percentage of total baby count: 0.12
+5739474,Olivia,F,19365.0,2016.0,CT,210.0,1.08,Olivia<br>CT<br>National baby count with the name: Olivia<br>19365.0<br>Percentage of total baby count: 1.08
+5739475,Olivia,F,19365.0,2016.0,DC,44.0,0.23,Olivia<br>DC<br>National baby count with the name: Olivia<br>19365.0<br>Percentage of total baby count: 0.23
+5739476,Olivia,F,19365.0,2016.0,DE,66.0,0.34,Olivia<br>DE<br>National baby count with the name: Olivia<br>19365.0<br>Percentage of total baby count: 0.34
+5739487,Olivia,F,19365.0,2016.0,MA,424.0,2.19,Olivia<br>MA<br>National baby count with the name: Olivia<br>19365.0<br>Percentage of total baby count: 2.19
+5739488,Olivia,F,19365.0,2016.0,MD,299.0,1.54,Olivia<br>MD<br>National baby count with the name: Olivia<br>19365.0<br>Percentage of total baby count: 1.54
+5739498,Olivia,F,19365.0,2016.0,NH,65.0,0.34,Olivia<br>NH<br>National baby count with the name: Olivia<br>19365.0<br>Percentage of total baby count: 0.34
+5739499,Olivia,F,19365.0,2016.0,NJ,531.0,2.74,Olivia<br>NJ<br>National baby count with the name: Olivia<br>19365.0<br>Percentage of total baby count: 2.74
+5739502,Olivia,F,19365.0,2016.0,NY,1220.0,6.3,Olivia<br>NY<br>National baby count with the name: Olivia<br>19365.0<br>Percentage of total baby count: 6.3
+5739506,Olivia,F,19365.0,2016.0,PA,728.0,3.76,Olivia<br>PA<br>National baby count with the name: Olivia<br>19365.0<br>Percentage of total baby count: 3.76
+5739507,Olivia,F,19365.0,2016.0,RI,76.0,0.39,Olivia<br>RI<br>National baby count with the name: Olivia<br>19365.0<br>Percentage of total baby count: 0.39
+5739513,Olivia,F,19365.0,2016.0,VA,484.0,2.5,Olivia<br>VA<br>National baby count with the name: Olivia<br>19365.0<br>Percentage of total baby count: 2.5
+5739514,Olivia,F,19365.0,2016.0,VT,29.0,0.15,Olivia<br>VT<br>National baby count with the name: Olivia<br>19365.0<br>Percentage of total baby count: 0.15
+5834684,Olivia,F,18703.0,2017.0,CT,230.0,1.23,Olivia<br>CT<br>National baby count with the name: Olivia<br>18703.0<br>Percentage of total baby count: 1.23
+5834685,Olivia,F,18703.0,2017.0,DC,52.0,0.28,Olivia<br>DC<br>National baby count with the name: Olivia<br>18703.0<br>Percentage of total baby count: 0.28
+5834686,Olivia,F,18703.0,2017.0,DE,56.0,0.3,Olivia<br>DE<br>National baby count with the name: Olivia<br>18703.0<br>Percentage of total baby count: 0.3
+5834697,Olivia,F,18703.0,2017.0,MA,380.0,2.03,Olivia<br>MA<br>National baby count with the name: Olivia<br>18703.0<br>Percentage of total baby count: 2.03
+5834698,Olivia,F,18703.0,2017.0,MD,283.0,1.51,Olivia<br>MD<br>National baby count with the name: Olivia<br>18703.0<br>Percentage of total baby count: 1.51
+5834708,Olivia,F,18703.0,2017.0,NH,67.0,0.36,Olivia<br>NH<br>National baby count with the name: Olivia<br>18703.0<br>Percentage of total baby count: 0.36
+5834709,Olivia,F,18703.0,2017.0,NJ,562.0,3.0,Olivia<br>NJ<br>National baby count with the name: Olivia<br>18703.0<br>Percentage of total baby count: 3.0
+5834712,Olivia,F,18703.0,2017.0,NY,1229.0,6.57,Olivia<br>NY<br>National baby count with the name: Olivia<br>18703.0<br>Percentage of total baby count: 6.57
+5834716,Olivia,F,18703.0,2017.0,PA,667.0,3.57,Olivia<br>PA<br>National baby count with the name: Olivia<br>18703.0<br>Percentage of total baby count: 3.57
+5834717,Olivia,F,18703.0,2017.0,RI,63.0,0.34,Olivia<br>RI<br>National baby count with the name: Olivia<br>18703.0<br>Percentage of total baby count: 0.34
+5834723,Olivia,F,18703.0,2017.0,VA,474.0,2.53,Olivia<br>VA<br>National baby count with the name: Olivia<br>18703.0<br>Percentage of total baby count: 2.53
+5834724,Olivia,F,18703.0,2017.0,VT,29.0,0.16,Olivia<br>VT<br>National baby count with the name: Olivia<br>18703.0<br>Percentage of total baby count: 0.16
+5928955,Olivia,F,17921.0,2018.0,CT,203.0,1.13,Olivia<br>CT<br>National baby count with the name: Olivia<br>17921.0<br>Percentage of total baby count: 1.13
+5928956,Olivia,F,17921.0,2018.0,DC,47.0,0.26,Olivia<br>DC<br>National baby count with the name: Olivia<br>17921.0<br>Percentage of total baby count: 0.26
+5928957,Olivia,F,17921.0,2018.0,DE,43.0,0.24,Olivia<br>DE<br>National baby count with the name: Olivia<br>17921.0<br>Percentage of total baby count: 0.24
+5928968,Olivia,F,17921.0,2018.0,MA,394.0,2.2,Olivia<br>MA<br>National baby count with the name: Olivia<br>17921.0<br>Percentage of total baby count: 2.2
+5928969,Olivia,F,17921.0,2018.0,MD,265.0,1.48,Olivia<br>MD<br>National baby count with the name: Olivia<br>17921.0<br>Percentage of total baby count: 1.48
+5928979,Olivia,F,17921.0,2018.0,NH,87.0,0.49,Olivia<br>NH<br>National baby count with the name: Olivia<br>17921.0<br>Percentage of total baby count: 0.49
+5928980,Olivia,F,17921.0,2018.0,NJ,483.0,2.7,Olivia<br>NJ<br>National baby count with the name: Olivia<br>17921.0<br>Percentage of total baby count: 2.7
+5928983,Olivia,F,17921.0,2018.0,NY,1083.0,6.04,Olivia<br>NY<br>National baby count with the name: Olivia<br>17921.0<br>Percentage of total baby count: 6.04
+5928987,Olivia,F,17921.0,2018.0,PA,608.0,3.39,Olivia<br>PA<br>National baby count with the name: Olivia<br>17921.0<br>Percentage of total baby count: 3.39
+5928988,Olivia,F,17921.0,2018.0,RI,66.0,0.37,Olivia<br>RI<br>National baby count with the name: Olivia<br>17921.0<br>Percentage of total baby count: 0.37
+5928994,Olivia,F,17921.0,2018.0,VA,446.0,2.49,Olivia<br>VA<br>National baby count with the name: Olivia<br>17921.0<br>Percentage of total baby count: 2.49
+5928995,Olivia,F,17921.0,2018.0,VT,24.0,0.13,Olivia<br>VT<br>National baby count with the name: Olivia<br>17921.0<br>Percentage of total baby count: 0.13
